@@ -1,5 +1,5 @@
 *.ipynb linguist-detectable=true
-*.html linguist-detectable=false
+reminder.html linguist-detectable=false
 
 /.gitignore export-ignore
 /.gitattributes export-ignore
